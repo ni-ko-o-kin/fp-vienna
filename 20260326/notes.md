@@ -6,6 +6,8 @@
 - Advertisements & Outreach (help us grow the community!)
 - Elm on the server (Task Ports, [Concurrent Task](https://package.elm-lang.org/packages/andrewMacmurray/elm-concurrent-task/latest/))
 - [Rust Kernel](https://media.ccc.de/v/39c3-xous-a-pure-rust-rethink-of-the-embedded-operating-system)
+- Future Talks:
+  - Tau-Lang
 
 
 ## Next Meetup: Save the Date!
