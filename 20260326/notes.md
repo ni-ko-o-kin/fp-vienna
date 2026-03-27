@@ -9,9 +9,8 @@
 
 
 ## Next Meetup: Save the Date!
-
-📅 Friday, April 23, 2026
-
-⏰ 18:54 - ~21:00+
-
-📍 Location: [42 Vienna Heiligenstadt or your suggestion]
+- Friday, April 23, 2026
+- 18:54 - ~21:00+
+- Location: [42 Vienna Heiligenstadt or your suggestion]
+- Talks
+  - TBA
